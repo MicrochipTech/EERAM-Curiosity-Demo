@@ -1,6 +1,8 @@
-# EERAM Rally Mini Demo
+# EERAM Curiosity Demo
 
-[![Demonstration Video](/Docs/Media/EERAM-Curiosity-Demo.jpg)](https://vimeo.com/604095048)
+https://user-images.githubusercontent.com/7294232/145286206-99df1dd6-57bf-4ad6-869a-249803b24ea2.mp4
+
+[Full Video](https://vimeo.com/604095048)
 
 ## ABOUT
 The demo uses the [**47L16**](https://www.microchip.com/47L16), a 3.3V I2C EERAM with a density of 16 Kbits. A 5V version, as well as a 4 Kbit density in 3.3V and 5V, are also available.
